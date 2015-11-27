@@ -3,15 +3,15 @@
     },
 
     {
-        "intro_header": "Talemåder og ordspil"
+        "intro_header": "Talemåder og ordsprog"
     },
 
     {
-        "intro_text": "Læg mærke til de talemåder og ordspil, der anvendes i sketchen."
+        "intro_text": "Læg mærke til de talemåder og ordsprog, der anvendes i sketchen. Du vil blive bedt om at vælge den rigtige af flere talemåder og ordspeorg. Desuden skal du arbejde med hvad betydningen er."
     },
 
     {
-        "intro_knap": "START!"
+        "intro_knap": "Begynd opgaven"
     },
 
     {
@@ -19,9 +19,9 @@
             "timestamp": 6,
             "events": [{
                 "eventtype": "svarknap",
-                "tekst": "Den der kommer først til mølle, skal man ikke opsætte til i morgen",
+                "tekst": "Den der kommer først til mølle, skal man ikke opsætte til i morgen - vælg det rigtige svar:",
                 "svar": [
-                    "...får først malet", "...får vind i håret", "...skuffes ej"
+                    "Den der kommer først til mølle, får først malet", "Den der kommer først til mølle, får vind i håret", "Den der kommer først til mølle, skuffes ej"
                 ],
                 "korrekt": [
                     "0"
@@ -29,10 +29,10 @@
                 "feedback": "feedback....."
             }, {
                 "eventtype": "svarknap",
-                "tekst": " Den der kommer først til mølle, får først malet:",
+                "tekst": "Hvad betyder: Den der kommer først til mølle, får først malet:",
                 "svar": [
-                    "Vinder en pensel",
-                    "Kommer i problemer",
+                    "Den der kommer først, vinder en pensel",
+                    "Den der kommer først, kommer i problemer",
                     "Den som kommer først, får først"
                 ],
                 "korrekt": [
@@ -47,9 +47,8 @@
             "timestamp": 10,
             "events": [{
                 "eventtype": "svarknap",
-                "tekst": "Ti bajere i hånden, er bedre end en på taget",
+                "tekst": "Ti bajere i hånden, er bedre end en på taget - vælg det rigtige svar:",
                 "svar": [
-
                     "Ti bajere på taget, er bedre end en fugl på taget",
                     "En fugl hånden er bedre end ti på taget",
                     "Ti fugle i hånden, er bedre end en på taget "
@@ -60,7 +59,7 @@
                 "feedback": "feedback....."
             }, {
                 "eventtype": "svarknap",
-                "tekst": "En fugl i hånden er bedre end ti på taget",
+                "tekst": "Hvad betyder: En fugl i hånden er bedre end ti på taget",
                 "svar": [
                     "Man skal holde fast i det man allerede har opnået frem for at risikere at miste det ved at stræbe efter noget mere som er vanskeligt at opnå", "Man skal ikke have flere kæledyr end man kan tage hånd om", "Man skal behandle dyrene som man vil behandle sine venner"
                 ],
@@ -74,7 +73,7 @@
             "timestamp": 12,
             "events": [{
                 "eventtype": "svarknap",
-                "tekst": "Husk det er dråben der får bægeret til at vælte",
+                "tekst": "Husk det er dråben der får bægeret til at vælte - vælg det rigtige svar:",
                 "svar": [
 
                      "Husk det er stenen der får bægeret til at vælte", "Husk det er dråben der får bægeret til at flyde over","Husk det er dråben som løber i åen"
@@ -86,9 +85,9 @@
                 "feedback": "feedback....."
             }, {
                 "eventtype": "svarknap",
-                "tekst": "Det er dråben som får bægeret til at flyde over:",
+                "tekst": "Hvad betyder: Det er dråben som får bægeret til at flyde over:",
                 "svar": [
-                    "det kan være en lille ting, som medfører store konsekvenser", "det kan være en stor ting, som medfører små konsekvenser", "jo flere dråber, des bedre er det"
+                    "At en lille ting kan medføre store konsekvenser", "At en stor ting kan medføre små konsekvenser", "At jo flere dråber der er, desto bedre er det"
                 ],
                 "korrekt": [
                     "0"
@@ -104,7 +103,7 @@
             "timestamp": 16,
             "events": [{
                 "eventtype": "svarknap",
-                "tekst": "Blind høne lugter ilde",
+                "tekst": "Blind høne lugter ilde - vælg det rigtige svar:",
                 "svar": [
 
                      "Blind høne hører bedre", "Blind høne smager bedre","Blind høne finder også korn"
@@ -116,9 +115,9 @@
                 "feedback": "feedback....."
             }, {
                 "eventtype": "svarknap",
-                "tekst": "Blind høne finder også korn",
+                "tekst": "Hvad betyder: Blind høne finder også korn",
                 "svar": [
-                    "held kan kompensere for ens mangler", "blinde mennesker udvikler særlige talenter", "hvis du ikke leder, finder du ikke"
+                    "At held kan kompensere for ens mangler", "At blinde mennesker udvikler særlige talenter", "At hvis du ikke leder, finder du ikke"
                 ],
                 "korrekt": [
                     "0"
@@ -131,7 +130,7 @@
             "timestamp": 24,
             "events": [{
                 "eventtype": "svarknap",
-                "tekst": "De er sandelig en dame med begge ben i næsen",
+                "tekst": "De er sandelig en dame med begge ben i næsen - vælg det rigtige svar:",
                 "svar": [
 
                      "at tage benene over næsen", "at have ben i næsen", "at stikke hovedet mellem benene"
