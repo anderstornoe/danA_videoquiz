@@ -3,7 +3,7 @@
     margin-top: 4%;
 }
 
-.h1 {
+.h1 { /*Fra THAN - lidt mere */
     color: black;
 }
 
@@ -43,6 +43,14 @@
     position: relative;
     z-index: 75;
     color: white;
+}
+
+.introknap,
+.btn_videre,
+.videre_knap,
+.forfra_knap {
+    background-color: transparent;
+    color:white;
 }
 
 .popud {
@@ -103,24 +111,14 @@ td {
 .introknap {
     cursor: pointer;
 }
-
+/*Hej + Hallo fra Anders*/
 .svar_btn {
     margin-bottom: 11px;
     white-space: normal !important;
     width: 100%;
 }
 
-.btn_chosen {
-    background-color: #1da6db;
-    border: 1px solid #1da6db;
-    color: white;
-}
 
-.btn_chosen:hover {
-    background-color: #1da6db;
-    border: 1px solid #1da6db;
-    color: white;
-}
 
 .feed_txt {
     color: white;
@@ -159,7 +157,6 @@ table {
     margin-bottom: 10px;
     margin-top: 30px;
     padding: 7px 19px;
-    background-color: #0dcea0;
 }
 
 .correctliste {
@@ -171,12 +168,5 @@ table {
     height: 75%;
     overflow-y: auto;
     overflow-x: hidden;
+    margin-top: 10%;
 }
-<<<<<<< HEAD
-.Hej_fra_Thomas{}
-=======
-
-.hejfraAnders{
-    color: green;
-}
->>>>>>> 6d1fe7b61dcf96576b4c144d5cccd57af5b19c2c
