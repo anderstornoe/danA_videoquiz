@@ -30,16 +30,6 @@
                     "1"
                 ],
                 "feedback": "feedback....."
-            }, {
-                "eventtype": "svarknap",
-                "tekst": "At have ben i næsen:",
-                "svar": [
-                     "at have en god lugtesans", "at have boksetud","at have en stærk karakter"
-                ],
-                "korrekt": [
-                    "2"
-                ],
-                "feedback": "feedback....."
             }]
         }]
     }
