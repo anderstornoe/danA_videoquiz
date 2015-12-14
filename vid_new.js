@@ -240,6 +240,9 @@ function setupplayer() {
 /// Herunder er scriptet identisk med vid_new_web.js
 
 function timerCheck() {
+    if (playing == true) {
+        $(".ipad").hide();
+    }
 console.log($(".embed-responsive-16by9").width());
     var playTime = Math.round(player.getCurrentTime());
 
@@ -311,8 +314,8 @@ function introscreen() {
             $("#overlay").unbind();
         });
 
-            if (navigator.platform.indexOf("iPad") != -1 || navigator.platform.indexOf("iPhone") != -1) {
-resumeVideo();
+          if (navigator.platform.indexOf("iPad") != -1 || navigator.platform.indexOf("iPhone") != -1) {
+            showIosOverlay();
         } else {
             resumeVideo();
         }
