@@ -40,23 +40,23 @@
                 "tekst": "Hvem er det, der 'ikke gider se på det'?",
                 "svar": [
                     "Helsefanatikerne",
-                    "Lægerne",
-                    "Peter Schrøder"
+                    "Den gale mand",
+                    "Dronningen"
                 ],
                 "korrekt": [
                     "0"
                 ],
-                "feedback": "Taleren skifter rolle til pludselig at gå op i sundhed, og laver en parodi på dem."
+                "feedback": "Taleren skifter rolle til en helsefanatiker."
             }, {
                 "eventtype": "svarknap",
                 "tekst": "Hvilket virkemiddel bruger han som helsefanatiker?",
                 "svar": [
-                    "Etos-appel", "Sarkasme", "Påstand"
+                    "Etos", "Sarkasme/karikatur", "Rygdækning"
                 ],
                 "korrekt": [
                     "1"
                 ],
-                "feedback": "Han bruger sarkasme til at fremstille helsefanatikerne som latterlige-"
+                "feedback": "Han bruger sarkasme/karikatur til at fremstille helsefanatikerne som latterlige."
             }]
         }, {
 
@@ -66,33 +66,33 @@
                 "tekst": "Hvem er det, der taler her?",
                 "svar": [
 
-                    "Helsefanatikerne", "Den almindelige dansker", "Den gale mand"
+                    "Helsefanatikerne", "Statsministeren", "Den gale mand"
 
                 ],
                 "korrekt": [
                     "2"
                 ],
-                "feedback": "feedback....."
+                "feedback": "Taleren skifter til den gale mand, der svarer på helsefanatikerens kritik ved at latterliggøre helsefanatikeren."
             }, {
                 "eventtype": "svarknap",
                 "tekst": "Hvilket argument benytter den gale mand for at spise brun sovs?",
                 "svar": [
-                    "At spise brun sovs er at leve livet"
+                    "At spise brun sovs er at leve livet", "At spise brun sovs gør dig fed og doven","At spise brun sovs er sundt"
                 ],
                 "korrekt": [
                     "0"
                 ],
-                "feedback": "feedback....."
+                "feedback": "Den gale mand gendriver ”slanketossernes” kritik ved at latterliggøre slankemidlet Nupo pulver, som bliver symbolet på helsefanatikerens måde at leve på."
             }, {
                 "eventtype": "svarknap",
                 "tekst": "Hvilken slags billedssprog er udtrykket ‘at sætte tænderne i livet’?",
                 "svar": [
-                    "En metafor"
+                    "Gentagelse","Retorisk spørgsmål","En metafor"
                 ],
                 "korrekt": [
-                    "0"
+                    "2"
                 ],
-                "feedback": "feedback....."
+                "feedback": "'At sætte tænderne i livet' er en metafor, hvor livet gøres til en ret, som man kan spise og dermed nyde. Metaforen betyder altså, at man skal spise rigtig mad for at leve livet."
             }, {
                 "eventtype": "svarknap",
                 "tekst": "Hvad udtrykker hans kropssprog her?",
@@ -102,7 +102,7 @@
                 "korrekt": [
                     "1"
                 ],
-                "feedback": "feedback....."
+                "feedback": "Han bruger kropssproget til at understrege vreden. Truende helt oppe i kameraet. Skaber også fortrolighed og understreger sin pointe når han stikker hovedet helt op i kameraet."
             }]
         }, {
 
@@ -112,13 +112,13 @@
                 "tekst": "Hvilket argumentatorisk virkemiddel bruger han i sætningen: “De skal satme ikke komme og snakke om vores deller",
                 "svar": [
 
-                    "En styrkemarkør og gendrivelse"
+                    "En styrkemarkør og gendrivelse","Påstand og belæg","Påstand og etos"
 
                 ],
                 "korrekt": [
                     "0"
                 ],
-                "feedback": "feedback....."
+                "feedback": "Den gale mand afviser totalt helsefanatikerens kritik med styrkemarkøren ”satme” og gendriver helsefanatikerens kritik."
             }]
         }, {
 
@@ -126,15 +126,15 @@
             "timestamp": 87,
             "events": [{
                 "eventtype": "svarknap",
-                "tekst": "Hvilken appelform er den mest dominerende?",
+                "tekst": "Hvilken appelform er den mest dominerende i klippet?",
                 "svar": [
 
-                    "Patos", "Etos", "Logos"
+                    "Etos", "Logos", "Patos" 
                 ],
                 "korrekt": [
-                    "0"
+                    "2"
                 ],
-                "feedback": "feedback....."
+                "feedback": "Klippet er bygget op om en vred mand der udtrykker sin personlige harme. <br/>Den vrede mand fremstår selv som utroværdig, da hans harme er ren harme uden fornuft, og samtidig fremstår helsefanatikeren utroværdig, da hans kritik også er ren harme uden fornuft.<br/>Klippet er altså bygget op om følelser (patos)."
             }]
         }, {
 
@@ -142,15 +142,15 @@
             "timestamp": 110,
             "events": [{
                 "eventtype": "svarknap",
-                "tekst": "Han bruger i høj grad overdrivelsen - hvordan påvirker det argumentationen?",
+                "tekst": "Den gale mand bruger i høj grad overdrivelsen - hvordan påvirker det argumentationen?",
                 "svar": [
 
-                    "Det gør den mere troværdig", "Det gør den mindre troværdig", "Det har ingen effekt"
+                    "Det gør den mere troværdig (etos)", "Det gør den mindre troværdig", "Den virker fornuftig (logos)"
                 ],
                 "korrekt": [
-                    "0"
+                    "1"
                 ],
-                "feedback": "feedback....."
+                "feedback": "Den gale mands overdrivelse af både sine egne påstande og karikaturen af helsefanatikeren fremstår som mindre troværdig, da han ikke rigtig får underbygget sine påstande med belæg. <br/>Dermed forbliver hans påstande vredesudbrud uden egentlig vægt, som dog alligevel kan være medrivende på grund af den høje grad af patos, styrkemarkør og gendrivelse."
             }]
         }, {
 
@@ -158,7 +158,7 @@
             "timestamp": 117,
             "events": [{
                 "eventtype": "information",
-                "tekst": "Hvad er det egentligt budskab i hele talen? Det er politisk satire / samfundssatire  og dermed gør Peter Schröder gør grin med både bodega børge og helsefanatikerne...",
+                "tekst": "Hvad er det egentlige budskab i hele talen? Det er politisk satire / samfundssatire  og dermed gør Peter Schröder gør grin med både bodega børge og helsefanatikerne...",
                 "svar": [
 
                     "Det gør den mere troværdig", "Det gør den mindre troværdig", "Det har ingen effekt"
