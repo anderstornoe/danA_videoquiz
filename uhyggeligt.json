@@ -37,16 +37,16 @@
             "timestamp": 19,
             "events": [{
                 "eventtype": "svarknap",
-                "tekst": "Hvem er det, der 'ikke gider se på det'?",
+                "tekst": "Manden med slipset indtager pludselig en anden rolle. Hvem taler han nu som?",
                 "svar": [
-                    "Helsefanatikerne",
-                    "Den gale mand",
+                    "En helsefanatiker",
+                    "En politiker",
                     "Dronningen"
                 ],
                 "korrekt": [
                     "0"
                 ],
-                "feedback": "Taleren skifter rolle til en helsefanatiker."
+                "feedback": "Manden med slipset skifter rolle til en helsefanatiker, og snakker som et vi, der 'ikke gider se på det'"
             }, {
                 "eventtype": "svarknap",
                 "tekst": "Hvilket virkemiddel bruger han som helsefanatiker?",
@@ -66,23 +66,23 @@
                 "tekst": "Hvem er det, der taler her?",
                 "svar": [
 
-                    "Helsefanatikerne", "Statsministeren", "Den gale mand"
+                    "Helsefanatikerne", "Statsministeren", "Manden med slipset"
 
                 ],
                 "korrekt": [
                     "2"
                 ],
-                "feedback": "Taleren skifter til den gale mand, der svarer på helsefanatikerens kritik ved at latterliggøre helsefanatikeren."
+                "feedback": "Taleren skifter igen position. Han svarer på helsefanatikerens kritik ved at latterliggøre slanketosserne."
             }, {
                 "eventtype": "svarknap",
-                "tekst": "Hvilket argument benytter den gale mand for at spise brun sovs?",
+                "tekst": "Hvilket argument benytter manden med slipset for at spise brun sovs?",
                 "svar": [
                     "At spise brun sovs er at leve livet", "At spise brun sovs gør dig fed og doven","At spise brun sovs er sundt"
                 ],
                 "korrekt": [
                     "0"
                 ],
-                "feedback": "Den gale mand gendriver ”slanketossernes” kritik ved at latterliggøre slankemidlet Nupo pulver, som bliver symbolet på helsefanatikerens måde at leve på."
+                "feedback": "Manden med slipset gendriver ”slanketossernes” kritik ved at latterliggøre slankemidlet Nupo pulver, som bliver symbolet på helsefanatikerens måde at leve på."
             }, {
                 "eventtype": "svarknap",
                 "tekst": "Hvilken slags billedssprog er udtrykket ‘at sætte tænderne i livet’?",
@@ -102,7 +102,7 @@
                 "korrekt": [
                     "1"
                 ],
-                "feedback": "Han bruger kropssproget til at understrege vreden. Truende helt oppe i kameraet. Skaber også fortrolighed og understreger sin pointe når han stikker hovedet helt op i kameraet."
+                "feedback": "Han bruger kropssproget til at understrege vreden, når han er helt oppe i kameraet. Han skaber dog også fortrolighed og understreger sin pointe når han stikker hovedet helt op i kameraet."
             }]
         }, {
 
@@ -118,7 +118,7 @@
                 "korrekt": [
                     "0"
                 ],
-                "feedback": "Den gale mand afviser totalt helsefanatikerens kritik med styrkemarkøren ”satme” og gendriver helsefanatikerens kritik."
+                "feedback": "Manden med slipset afviser totalt helsefanatikerens kritik med styrkemarkøren ”satme” og gendriver helsefanatikerens kritik."
             }]
         }, {
 
@@ -130,11 +130,11 @@
                 "svar": [
 
                     "Etos", "Logos", "Patos" 
-                ],
+                ],  
                 "korrekt": [
                     "2"
                 ],
-                "feedback": "Klippet er bygget op om en vred mand der udtrykker sin personlige harme. <br/>Den vrede mand fremstår selv som utroværdig, da hans harme er ren harme uden fornuft, og samtidig fremstår helsefanatikeren utroværdig, da hans kritik også er ren harme uden fornuft.<br/>Klippet er altså bygget op om følelser (patos)."
+                "feedback": "Klippet er bygget op om en vred mand der udtrykker sin personlige harme. <br/>Den vrede mand fremstår selv som utroværdig, da hans harme er vrede uden fornuft, og samtidig fremstår helsefanatikeren utroværdig, da hans kritik også er ren harme uden fornuft.<br/>Klippet er altså bygget op om følelser (patos)."
             }]
         }, {
 
@@ -142,7 +142,7 @@
             "timestamp": 110,
             "events": [{
                 "eventtype": "svarknap",
-                "tekst": "Den gale mand bruger i høj grad overdrivelsen - hvordan påvirker det argumentationen?",
+                "tekst": "Manden med slipset bruger i høj grad overdrivelsen - hvordan påvirker det argumentationen?",
                 "svar": [
 
                     "Det gør den mere troværdig (etos)", "Det gør den mindre troværdig", "Den virker fornuftig (logos)"
@@ -150,7 +150,7 @@
                 "korrekt": [
                     "1"
                 ],
-                "feedback": "Den gale mands overdrivelse af både sine egne påstande og karikaturen af helsefanatikeren fremstår som mindre troværdig, da han ikke rigtig får underbygget sine påstande med belæg. <br/>Dermed forbliver hans påstande vredesudbrud uden egentlig vægt, som dog alligevel kan være medrivende på grund af den høje grad af patos, styrkemarkør og gendrivelse."
+                "feedback": "Manden med slipset overdrivelse af både sine egne påstande og karikaturen af helsefanatikeren fremstår som mindre troværdig, da han ikke rigtig får underbygget sine påstande med belæg. <br/>Dermed forbliver hans påstande vredesudbrud uden egentlig vægt, som dog alligevel kan være medrivende på grund af den høje grad af patos, styrkemarkør og gendrivelse."
             }]
         }, {
 
