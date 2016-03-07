@@ -28,7 +28,7 @@
                 "korrekt": [
                     "0"
                 ],
-                "feedback": "feedback....."
+                "feedback": ""
             }, {
                 "eventtype": "svarknap",
                 "tekst": "Hvad betyder: Den der kommer først til mølle, får først malet:",
@@ -40,7 +40,7 @@
                 "korrekt": [
                     "2"
                 ],
-                "feedback": "feedback....."
+                "feedback": ""
             }]
 
 
@@ -58,7 +58,7 @@
                 "korrekt": [
                     "1"
                 ],
-                "feedback": "feedback....."
+                "feedback": ""
             }, {
                 "eventtype": "svarknap",
                 "tekst": "Hvad betyder: En fugl i hånden er bedre end ti på taget",
@@ -68,7 +68,7 @@
                 "korrekt": [
                     "0"
                 ],
-                "feedback": "feedback....."
+                "feedback": ""
             }]
         }, {
 
@@ -84,7 +84,7 @@
                 "korrekt": [
                     "1"
                 ],
-                "feedback": "feedback....."
+                "feedback": ""
             }, {
                 "eventtype": "svarknap",
                 "tekst": "Hvad betyder: Det er dråben som får bægeret til at flyde over:",
@@ -94,7 +94,7 @@
                 "korrekt": [
                     "0"
                 ],
-                "feedback": "feedback....."
+                "feedback": ""
             }]
         }, {
 
@@ -114,7 +114,7 @@
                 "korrekt": [
                     "2"
                 ],
-                "feedback": "feedback....."
+                "feedback": ""
             }, {
                 "eventtype": "svarknap",
                 "tekst": "Hvad betyder: Blind høne finder også korn",
@@ -124,7 +124,7 @@
                 "korrekt": [
                     "0"
                 ],
-                "feedback": "feedback....."
+                "feedback": ""
             }]
         }, {
 
@@ -140,7 +140,7 @@
                 "korrekt": [
                     "1"
                 ],
-                "feedback": "feedback....."
+                "feedback": ""
             }, {
                 "eventtype": "svarknap",
                 "tekst": "At have ben i næsen:",
@@ -150,7 +150,17 @@
                 "korrekt": [
                     "2"
                 ],
-                "feedback": "feedback....."
+                "feedback": ""
+            }, {
+                "eventtype": "info",
+                "tekst": "Der er ikke flere spørgmsål i quizzen, men flere eksempler på talemåder i resten af filmen. <br/>Se om du kan forstå dem alle!",
+                "svar": [
+                     ""
+                ],
+                "korrekt": [
+                    "2"
+                ],
+                "feedback": ""
             }]
         }]
     }
