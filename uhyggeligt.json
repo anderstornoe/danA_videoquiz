@@ -28,7 +28,7 @@
                 "korrekt": [
                     "1"
                 ],
-                "feedback": "Hovedpersonen stiller et retorisk spørgsmål, altså er spørgsmål, der ikke kræves et svar på af modtageren: 'Kan I se hvad der står her, er det ikke en dansker?'. <br/>Peter Schrøder leverer desuden den påstand, at alle danskere er lavet af flæskesvær og brun sovs."
+                "feedback": "Hovedpersonen stiller et retorisk spørgsmål, altså et spørgsmål, der ikke kræves et svar på af modtageren: 'Kan I se, hvad der står her, er det ikke en dansker?'. <br/>Peter Schrøder leverer desuden den påstand, at alle danskere er lavet af flæskesvær og brun sovs."
             }]
 
 
@@ -46,7 +46,7 @@
                 "korrekt": [
                     "0"
                 ],
-                "feedback": "Manden med slipset skifter rolle til en helsefanatiker, og snakker som et vi, der 'ikke gider se på det'"
+                "feedback": "Manden med slipset skifter rolle til en helsefanatiker og snakker som et vi, der 'ikke gider se på det'"
             }, {
                 "eventtype": "svarknap",
                 "tekst": "Hvilket virkemiddel bruger han som helsefanatiker?",
@@ -82,7 +82,7 @@
                 "korrekt": [
                     "0"
                 ],
-                "feedback": "Manden med slipset gendriver ”slanketossernes” kritik ved at latterliggøre slankemidlet Nupo pulver, som bliver symbolet på helsefanatikerens måde at leve på."
+                "feedback": "Manden med slipset gendriver ”slanketossernes” kritik ved at latterliggøre slankemidlet <i>Nupo</i>, som bliver symbolet på helsefanatikerens måde at leve på."
             }, {
                 "eventtype": "svarknap",
                 "tekst": "Hvilken slags billedssprog er udtrykket ‘at sætte tænderne i livet’?",
@@ -134,7 +134,7 @@
                 "korrekt": [
                     "2"
                 ],
-                "feedback": "Klippet er bygget op om en vred mand der udtrykker sin personlige harme. <br/>Den vrede mand fremstår selv som utroværdig, da hans harme er vrede uden fornuft, og samtidig fremstår helsefanatikeren utroværdig, da hans kritik også er ren harme uden fornuft.<br/>Klippet er altså bygget op om følelser (patos)."
+                "feedback": "Klippet er bygget op om en vred mand, der udtrykker sin personlige harme. <br/>Den vrede mand fremstår selv som utroværdig, da hans harme er vrede uden fornuft, og samtidig fremstår helsefanatikeren utroværdig, da hans kritik også er ren harme uden fornuft.<br/>Klippet er altså bygget op om følelser (patos)."
             }]
         }, {
 
@@ -158,7 +158,7 @@
             "timestamp": 117,
             "events": [{
                 "eventtype": "information",
-                "tekst": "Hvad er det egentlige budskab i hele talen? Det er politisk satire / samfundssatire  og dermed gør Peter Schröder gør grin med både bodega børge og helsefanatikerne...",
+                "tekst": "Hvad er det egentlige budskab i hele talen? Det er politisk satire / samfundssatire og dermed gør Peter Schröder gør grin med både Hr. og Fru Hakkebøf og helsefanatikerne.",
                 "svar": [
 
                     "Det gør den mere troværdig", "Det gør den mindre troværdig", "Det har ingen effekt"
