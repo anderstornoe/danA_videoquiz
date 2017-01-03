@@ -3,16 +3,15 @@
     margin-top: 4%;
 }
 
-.h1 {
-    /*Fra THAN - lidt mere */
-    color: black;
-}
-
 .ipad {
     z-index: 6;
     position: absolute;
     bottom: 0;
     right: 0;
+}
+
+.h1 {
+    color: black;
 }
 
 .movie_h1 {
@@ -42,14 +41,12 @@
     width: 350px;
 }
 
-.score,
-.spm_tekst,
-.correctliste {
-    color: white;
+.score, .spm_tekst, .correctliste {
+    color:white;
 }
 
 #overlay {
-    background-color: rgba(0, 113, 128, 0);
+    background-color: rgba(0, 113, 128, 0.5);
     position: relative;
     z-index: 75;
     color: white;
@@ -60,13 +57,13 @@
 .videre_knap,
 .forfra_knap {
     background-color: transparent;
-    color: white;
+    color:white;
 }
 
 .popud {
     left: 0;
     margin: 0 auto;
-    position: relative;
+    position: absolute;
     right: 0;
     top: 2%;
     width: 90%;
@@ -101,7 +98,6 @@ td {
     position: absolute;
     width: 100%;
     z-index: 1;
-    opacity: 0;
 }
 
 .html5-video-container {
@@ -123,14 +119,13 @@ td {
     cursor: pointer;
 }
 
-
-/*Hej + Hallo fra Anders*/
-
 .svar_btn {
     margin-bottom: 11px;
     white-space: normal !important;
     width: 100%;
 }
+
+
 
 .feed_txt {
     color: white;
@@ -143,15 +138,12 @@ table {
     margin-top: 40px;
 }
 
-
-
 .btn_videre {
-
     position: absolute;
-    bottom: 5%;
-    right: 32%;
-    display:none;
+    bottom: 0;
 }
+
+.videre_knap {}
 
 .forfra_knap {
     margin-bottom: 0px;
@@ -164,7 +156,7 @@ table {
     opacity: 0.4;
     position: absolute;
     width: 300px;
-    z-index: 2 opacity: 0;
+    z-index: 2;
 }
 
 .correct_answers {
@@ -184,4 +176,7 @@ table {
     overflow-y: auto;
     overflow-x: hidden;
     margin-top: 10%;
+}
+.h3{
+    font-size: 16px;
 }
